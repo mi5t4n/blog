@@ -1,13 +1,10 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/about-me.jpg"
 ---
+![Sagar Tamang](/media/about-me.jpg)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Sagar, a graduate in Computer Engineering is the Senior WordPress Plugin Developer in ThemeGrill. He is very enthusiastic and fascinating WordPresser from Biratnagar, Nepal. He is engaged in with WordPress since last 1 year and is a very active member of WordPress Biratnagar meetups.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+He is always curious about developing new things and Winner of Yantra 3.0 and first runner-up of Yantra 4.0, National Robotics Competition organized by Robotics Association Nepal. Sagar is an easy going person with a very welcoming personality. His kind and helpful nature are what makes him a go-to person for reliability. Besides technology, he enjoys exploring and traveling to new places, hacking stuff, debating with his colleagues on philosophy and taste new foods.

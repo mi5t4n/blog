@@ -6,14 +6,18 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
+        "Biratnagar",
         "Devs",
         "Dokan",
         "githubusercontent",
         "mkdirp",
+        "Sagar",
         "streetsidesoftware",
+        "Tamang",
         "tsmerge",
         "visualstudio",
-        "vsmarketplacebadge"
+        "vsmarketplacebadge",
+        "Yantra"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
