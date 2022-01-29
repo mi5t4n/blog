@@ -121,6 +121,14 @@ module.exports = {
             options: { wrapperStyle: 'margin-bottom: 1.0725rem' }
           },
           'gatsby-remark-autolink-headers',
+          {
+            resolve: 'gatsby-remark-embed-gist',
+            options: {
+              username: 'mi5t4n',
+              gistDefaultCssInclude: true,
+              gistCssPreload: true,
+            }
+          },
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
