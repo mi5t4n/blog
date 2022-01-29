@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://sagartamang.com.np',
   pathPrefix: '/',
   title: 'Sagar Tamang',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Senior WordPress Plugin Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Resume',
+      path: '/pages/resume'
     }
   ],
   author: {
