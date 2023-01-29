@@ -4,9 +4,9 @@ date: "2019-04-21T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "make-product-purchasable-based-on-the-vendor-opening-and-closing-time-in-dokan-plugin"
-category: "WordPress"
+category: "WordPress, Dokan"
 tags:
-  - "Dokan"
+  - "Dokan, E-Commerce, Multi-Vendor"
 description: "You have a multi-vendor eCommerce website on WordPress with WooCommerce and Dokan plugins. There may time when you want to make the products purchasable based on the opening and closing time of the store."
 socialImage: "https://miro.medium.com/max/700/0*u7N8y7HZmCnhpmJV"
 ---

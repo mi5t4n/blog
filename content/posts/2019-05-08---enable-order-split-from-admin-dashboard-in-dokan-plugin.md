@@ -4,9 +4,9 @@ date: "2019-05-08T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "enable-order-split-from-admin-dashboard-in-dokan-plugin"
-category: "WordPress"
+category: "WordPress, Dokan"
 tags:
-  - "Dokan"
+  - "Dokan, E-Commerce, Multi-Vendor"
 description: "Split order to sub-orders according to vendors when order is created form backend."
 socialImage: "https://miro.medium.com/max/700/0*u7N8y7HZmCnhpmJV"
 ---
