@@ -7,7 +7,7 @@ slug: "enable-order-split-from-admin-dashboard-in-dokan-plugin"
 category: "WordPress"
 tags:
   - "Dokan"
-description: "Dokan is a multi-vendor plugin developed by the weDevs. It works along side with the WooCommerce to allow the multi-vendor capability to the WooCommerce website."
+description: "Split order to sub-orders according to vendors when order is created form backend."
 socialImage: "https://miro.medium.com/max/700/0*u7N8y7HZmCnhpmJV"
 ---
 
@@ -15,8 +15,8 @@ socialImage: "https://miro.medium.com/max/700/0*u7N8y7HZmCnhpmJV"
 *<p align="center">
 Dokan Photo by [Shahadat Shemul](https://unsplash.com/@shemul) on [Unsplash](https://unsplash.com)</p>*
 
-[Dokan](https://wedevs.com/dokan) is a multi-vendor plugin developed by the [weDevs](https://wedevs.com/). It works along side with the WooCommerce to allow the multi-vendor capability to the WooCommerce website.
+The multi-vendor plugin [Dokan](https://wedevs.com/dokan) was created by the [weDevs](https://wedevs.com/). It works in tandem with WooCommerce to give the WooCommerce website the flexibility to support multiple vendors.
 
-In a multi-vendor website based on Dokan plugin, when an order is created containing products from multiple vendors. The order is split by creating sub-order for each vendor. When a customer creates order from front-end, the order is split perfectly. But when the order is created from the administrator dashboard, the order is not split. Use the following code snipped to enable the order split from the dashboard.
+When an order is placed with goods from various merchants on a multi-vendor website powered by the Dokan plugin. To divide the order, separate sub-orders are created for each vendor. The split of the order is perfect when a consumer creates it from the front-end. However, the order is not separated when it is created from the administrator dashboard. To make the order split from the dashboard available, use the following snippet of code.
 
 `gist:mi5t4n/03d9c578707d8c8dfa9a251a1e2d0ae4#dokan-order-split-from-backend.php`
